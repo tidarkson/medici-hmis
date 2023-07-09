@@ -1,0 +1,102 @@
+{
+    "data": [
+        {
+            "id":1,
+            "button": "Services",
+            "details": [
+                {
+                    "id" : 1,
+                    "name": "Well Equipped Lab",
+                    "image": "./images/Microscope.png"
+                },
+
+                {
+                    "id" : 2,
+                    "name": "Free Checkup",
+                    "image": "./images/Medicaid.png"
+                },
+                {
+                    "id" : 3,
+                    "name": "Online Appointment",
+                    "image": "./images/Telemedicine.png"
+                },
+                {
+                    "id" : 4,
+                    "name": "Emergency Ambulance",
+                    "image": "./images/Small car.png"
+                }
+            ]
+        },
+
+
+        {
+            "id":2,
+            "button": "Specialty",
+            "details": [
+                {
+                    "id" : 1,
+                    "name": "Gynecology & OB",
+                    "image": "./images/Baby.png"
+                },
+                {
+                    "id" : 2,
+                    "name": "Dentist",
+                    "image": "./images/Dentist.png"
+                },
+                {
+                    "id" : 3,
+                    "name": "Orthopedic",
+                    "image": "./images/Stethoscope.png"
+                },
+                {
+                    "id" : 4,
+                    "name": "Neurology",
+                    "image": "./images/Chart heartbeat.png"
+                }
+            ]
+        },
+        
+        {
+            "id":3,
+            "button": "Doctors",
+            "details": [
+                {
+                    "id" : 6,
+                    "name": "Dr Robert Henry",
+                    "image": "./images/pose_4.png",
+                    "availability": 220,
+                    "specialty": "Child Specialist",
+                    "CTA": "View Profile",
+                    "rating": "1:28pm"
+                },
+                {
+                    "id" : 7,
+                    "name": "Dr Harry Bird",
+                    "image": "./images/pose_6.png",
+                    "availability": 185,
+                    "rating": "Very Good",
+                    "specialty": "Gynologist",
+                    "CTA": "View Profile"
+                },
+                {
+                    "id" : 8,
+                    "name": "Dr T.I Darkson",
+                    "image": "./images/pose_9.png",
+                    "availability": 220,
+                    "rating": "Very Good",
+                    "specialty": "Cardiologist",
+                    "CTA": "View Profile"
+                },
+                {
+                    "id" : 9,
+                    "name": "Dr Emily Rashford",
+                    "image": "./images/05.png",
+                    "availability": 185,
+                    "rating": "Very Good",
+                    "specialty": "Neurologist",
+                    "CTA": "View Profile"
+                }
+            ]
+        }
+    ]
+} 
