@@ -11,7 +11,7 @@ export const Hero = () => {
                     <p>Good health is the state of mental, physical and social well being
                         and it does not just mean absence of diseases.</p>
                     <p>Now from the confort of your home you can take care of your health.</p>
-                    <button className='font-semibold bg-teal-900 px-3 py-2 rounded mt-12 text-white'>Book an appointment</button>
+                    <button className='font-semibold bg-teal-900 px-3 py-2 rounded mt-12 text-white'>Explore our Services</button>
                 </div>
 
                 <div className="pr-8 relative">
