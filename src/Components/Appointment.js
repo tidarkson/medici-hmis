@@ -65,6 +65,10 @@ export const Appointment = () => {
                                     <option value="Neurology">Neurology</option>
                                     <option value="Gynocology">Gynocology</option>
                                     <option value="Cardiology">Cardiology</option>
+                                    <option value="Oncology">Opthamology</option>
+                                    <option value="Neurology">Urology</option>
+                                    <option value="Gynocology">Dermatology</option>
+                                    <option value="Cardiology">Renal Medicine</option>
                                 </select>
                             </td>
                         </tr>

@@ -18,9 +18,9 @@ export const Header = () => {
                             <li className='cursor-pointer'>About Us</li>
                         </ul>                        
                     </div>
-                    <div className="flex justify-center align-center gap-8">
-                        <button className='font-semibold bg-teal-900 px-3 py-2 rounded my-5 text-white'>Sign in</button>
-                        <button className='font-semibold bg-teal-900 px-3 py-2 rounded my-5 text-white'>Register</button>
+                    <div className="flex justify-center items-center gap-4">
+                        <button className='text-sm font-semibold border border-teal-900 px-3 py-2 rounded hover:bg-teal-900 hover:text-white'>Sign in</button>
+                        <button className='text-sm font-semibold bg-teal-900 px-3 py-2 rounded hover:bg-slate-300 hover:text-teal-900 text-white'>Register</button>
                     </div>
                 </div>
             </navbar>

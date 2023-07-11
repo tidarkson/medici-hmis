@@ -1,0 +1,41 @@
+{
+    "data": [
+                {
+                    "id" : 1,
+                    "title": "Medical treatment",
+                    "image": "./images/Group.png",
+                    "desc": "Book medical treatment at Medici Healthcare Group, and get the medical assistance you need",
+                    "CTA": "See More",
+                    "date" : "10th July, 2023",
+                    "author": "Author Name"
+                },
+
+                {
+                    "id" : 2,
+                    "title": "Free Checkup",
+                    "image": "./images/Group-2.png",
+                    "desc": "Need to confirm your medical diagnosis? Get your medical case reviewed by a leading specialist at Medici",
+                    "CTA": "See More",
+                    "date" : "10th July, 2023",
+                    "author": "Author Name"
+                },
+                {
+                    "id" : 3,
+                    "title": "Online Appointment",
+                    "image": "./images/Group-16.png",
+                    "desc": "Request comprehensive and affordable medical packages for you and your loved ones",
+                    "CTA": "See More",
+                    "date" : "10th July, 2023",
+                    "author": "Author Name"
+                },
+                {
+                    "id" : 4,
+                    "title": "Emergency Ambulance",
+                    "image": "./images/Group-17.png",
+                    "desc": "Planning to travel for overseas medical treatment? Get a detailed cost estimate tailored to meet your medical needs.",
+                    "CTA": "See More",
+                    "date" : "10th July, 2023",
+                    "author": "Author Name"
+                }
+    ]
+} 
