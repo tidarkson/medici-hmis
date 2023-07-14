@@ -9,7 +9,7 @@ export const Services = () => {
 
 
     return (
-        <section className='px-16 py-4 text-center text-teal-900 border border-top shadow-xl'>
+        <section className='py-4 text-center text-teal-900 border border-top shadow-xl'>
             <div className='py-4'>
                 <h3 className='text-4xl font-bold'>Medical Services</h3>
                 <p>Check your health conditions regularly to minimize the incidence of diseases in the future </p>

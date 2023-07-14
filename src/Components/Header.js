@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Header = () => {
     return (
-        <section className='px-16 py-4 text-teal-900'>
+        <section className='py-4 text-teal-900'>
             <navbar className="">
                 <div className="flex justify-between items-center">
                     <div>

@@ -1,0 +1,173 @@
+{
+    "data": [
+      {
+        "name": "John Doe",
+        "disease": "Fever",
+        "date": "2023-07-15",
+        "time": "10:00 AM",
+        "status": "Scheduled",
+        "action": "Take medication"
+      },
+      {
+        "name": "Jane Smith",
+        "disease": "Headache",
+        "date": "2023-07-16",
+        "time": "2:30 PM",
+        "status": "Scheduled",
+        "action": "Rest and hydrate"
+      },
+      {
+        "name": "Alice Johnson",
+        "disease": "Back pain",
+        "date": "2023-07-17",
+        "time": "9:15 AM",
+        "status": "Completed",
+        "action": "Follow-up in two weeks"
+      },
+      {
+        "name": "Michael Brown",
+        "disease": "Common cold",
+        "date": "2023-07-18",
+        "time": "11:30 AM",
+        "status": "Scheduled",
+        "action": "Drink plenty of fluids"
+      },
+      {
+        "name": "Emily Davis",
+        "disease": "Allergy",
+        "date": "2023-07-19",
+        "time": "3:00 PM",
+        "status": "Canceled",
+        "action": "Avoid allergens"
+      },
+      {
+        "name": "David Wilson",
+        "disease": "Stomach ache",
+        "date": "2023-07-20",
+        "time": "9:45 AM",
+        "status": "Scheduled",
+        "action": "Take antacids"
+      },
+      {
+        "name": "Olivia Anderson",
+        "disease": "Migraine",
+        "date": "2023-07-21",
+        "time": "1:30 PM",
+        "status": "Completed",
+        "action": "Avoid triggers"
+      },
+      {
+        "name": "James Taylor",
+        "disease": "Sprained ankle",
+        "date": "2023-07-22",
+        "time": "10:15 AM",
+        "status": "Scheduled",
+        "action": "Apply ice and elevate"
+      },
+      {
+        "name": "Sophia Martinez",
+        "disease": "Insomnia",
+        "date": "2023-07-23",
+        "time": "8:00 PM",
+        "status": "Scheduled",
+        "action": "Establish a sleep routine"
+      },
+      {
+        "name": "Benjamin Lee",
+        "disease": "Hypertension",
+        "date": "2023-07-24",
+        "time": "2:00 PM",
+        "status": "Scheduled",
+        "action": "Monitor blood pressure"
+      },
+      {
+        "name": "Ava Perez",
+        "disease": "Diabetes",
+        "date": "2023-07-25",
+        "time": "11:00 AM",
+        "status": "Scheduled",
+        "action": "Follow dietary guidelines"
+      },
+      {
+        "name": "William Thompson",
+        "disease": "Sinusitis",
+        "date": "2023-07-26",
+        "time": "9:30 AM",
+        "status": "Completed",
+        "action": "Take prescribed antibiotics"
+      },
+      {
+        "name": "Mia Garcia",
+        "disease": "Asthma",
+        "date": "2023-07-27",
+        "time": "4:45 PM",
+        "status": "Scheduled",
+        "action": "Use inhaler as needed"
+      },
+      {
+        "name": "Ethan Lewis",
+        "disease": "Depression",
+        "date": "2023-07-28",
+        "time": "3:15 PM",
+        "status": "Canceled",
+        "action": "Attend therapy sessions"
+      },
+      {
+        "name": "Isabella Hill",
+        "disease": "Anemia",
+        "date": "2023-07-29",
+        "time": "10:45 AM",
+        "status": "Scheduled",
+        "action": "Increase iron-rich foods"
+      },
+      {
+        "name": "Alexander Baker",
+        "disease": "Urinary tract infection",
+        "date": "2023-07-30",
+        "time": "12:30 PM",
+        "status": "Scheduled",
+        "action": "Take prescribed antibiotics"
+      },
+      {
+        "name": "Charlotte Green",
+        "disease": "Acne",
+        "date": "2023-07-31",
+        "time": "9:00 AM",
+        "status": "Completed",
+        "action": "Follow skincare routine"
+      },
+      {
+        "name": "Henry Adams",
+        "disease": "Gastroenteritis",
+        "date": "2023-08-01",
+        "time": "2:45 PM",
+        "status": "Scheduled",
+        "action": "Stay hydrated and rest"
+      },
+      {
+        "name": "Scarlett Turner",
+        "disease": "Anxiety",
+        "date": "2023-08-02",
+        "time": "11:30 AM",
+        "status": "Scheduled",
+        "action": "Practice stress management techniques"
+      },
+      {
+        "name": "Jack Collins",
+        "disease": "Eczema",
+        "date": "2023-08-03",
+        "time": "1:00 PM",
+        "status": "Canceled",
+        "action": "Moisturize regularly"
+      },
+      {
+        "name": "Lily Murphy",
+        "disease": "Conjunctivitis",
+        "date": "2023-08-04",
+        "time": "10:30 AM",
+        "status": "Scheduled",
+        "action": "Avoid touching eyes"
+      }
+    ]
+  }
+  

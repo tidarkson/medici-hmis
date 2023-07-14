@@ -5,7 +5,7 @@ export const Publications = () => {
     const [tabs] = useState(data)
 
     return (
-        <section className='px-16 mb-16 text-teal-900'>
+        <section className='mb-16 text-teal-900'>
             <div className='text-center py-4'>
                 <h3 className='text-4xl font-bold'> Latest Publications</h3>
                 <p>Written by our experts</p>

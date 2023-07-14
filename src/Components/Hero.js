@@ -4,7 +4,7 @@ import pose2 from '../images/pose_2.png'
 export const Hero = () => {
     return (
         <>
-            <hero className="flex items-center justify-between text-teal-900 px-16 py-8">
+            <hero className="flex items-center justify-between text-teal-900 py-8">
                 <div className="my-5">
                     <h1 className='text-5xl font-bold text-[#172A3A]'>Digital HealthTech Platform</h1>
                     <h3 className='text-4xl font-semibold text-[#172A3A] py-3'>We care <br /> about your health</h3>

@@ -2,7 +2,7 @@ import React from 'react'
 
 export const Appointment = () => {
     return (
-        <section className='grid grid-cols-2 items-center justify-center text-teal-900 p-16 '>
+        <section className='grid grid-cols-2 items-center justify-center text-teal-900 py-16 '>
             <div className='text-center'>
                 <h1 className='text-4xl font-bold'>Book an Appointment</h1>
                 <p className='mt-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat scelerisque tortor ornare ornare. Convallis felis vitae tortor augue. Velit nascetur proin massa in. Consequat faucibus porttitor enim et.</p>

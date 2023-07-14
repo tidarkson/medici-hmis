@@ -10,12 +10,14 @@ import { Publications } from '../../Components/Publications'
 export const Home = () => {
   return (
     <>
-        <Header/>
-        <Hero/>
-        <Services/>
-        <Appointment/>
-        <Publications/>
-        <Footer/>
+      <div className='px-16'>
+        <Header />
+        <Hero />
+        <Services />
+        <Appointment />
+        <Publications />
+      </div>
+      <Footer />
     </>
   )
 }
